@@ -218,4 +218,9 @@
 
   .pfp {
     border-radius: 50%;
-}
+  }
+
+  .pcsize {
+    width: 10%;
+    height: auto;
+  }
