@@ -215,14 +215,18 @@
     display: block;
   }
 
-
+/* not the pfp in the browse but actual pfp for each person */
   .pfp {
     border-radius: 50%;
+    width: 10%;
+    height: auto;
   }
 
+  /* universal pc size */
   .pcsize {
     width: 10%;
     height: auto;
+  border-radius: 5px;
   }
 
   
