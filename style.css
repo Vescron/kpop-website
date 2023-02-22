@@ -214,3 +214,8 @@
   .solar #solarIcon {
     display: block;
   }
+
+
+  .pfp {
+    border-radius: 50%;
+}
